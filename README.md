@@ -1,4 +1,4 @@
-# 🤖 Como implantei um Chatbot com IA Generativa Open Source na Oracle Cloud
+# Chatbot com IA Generativa Open Source na Oracle Cloud
 
 *Um relato prático sobre infraestrutura, modelos de linguagem e o que aprendi no caminho.*
 
